@@ -1,6 +1,6 @@
 ## Shortest Path in a Graph App
 
-![airline_WV7iZxjYQF](https://user-images.githubusercontent.com/40203375/71102834-c40fdc80-21c1-11ea-8143-8dc0cf3dfa9f.png)
+![airline_Rwo3CuIkm1](https://user-images.githubusercontent.com/40203375/71104576-b14ad700-21c4-11ea-8382-9b50e7e42bf3.png)
 
-_Dijkstra algorithm_
+_Dijkstra algorithm_\
 _Tkinter for UI and UX_
